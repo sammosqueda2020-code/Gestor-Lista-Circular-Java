@@ -1,8 +1,8 @@
 # Gestor de Listas de Reproducción (Lista Circular Doblemente Enlazada)
 
-## 👥 Integrantes del Equipo
+##  Integrantes del Equipo
 - Samuel Alejandro Mosqueda Zacatenco
-## 🛠️ Entorno de Desarrollo
+##  Entorno de Desarrollo
 - **Lenguaje:** Java (Compatible con Java 8, 11, 17 y superiores)
 - **Estructura de Datos:** Lista Doblemente Enlazada Circular (Implementación manual mediante manejo de referencias, sin uso de colecciones nativas).
 
